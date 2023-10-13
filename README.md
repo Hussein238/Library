@@ -1,1 +1,1 @@
-# Library
+Get hands on learning using objects and object constructors to create an dynamic library website.
